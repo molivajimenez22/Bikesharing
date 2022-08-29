@@ -24,18 +24,22 @@ The first line graph shows that rides are typically less than 30 mins in duratio
 
 ### **Number of bike trips for all riders and genders for each hour of each day of the week**
 
-This heat map shows that there is a high volume of riders between 7-9am and 5-7pm. Peak times are Thursdays at 8am and 5-6pm.
+This heat map shows that there is a high volume of riders between 7-9am and 5-7pm - which correlates with the typical commuter times. Peak times are Thursdays at 8am and 5-6pm.
 
 <p align="center" width="100%">
     <img width="66%" src="https://github.com/molivajimenez22/Bikesharing/blob/main/Resources/Weekday_for_eachhour.png">
 
 ### **Number of bike trips for each type of user and gender for each day of the week**
 
-The first heat map confirms findings in the line graph - there are more male riders. It is unclear why there are more male riders than any other riders. The second heat map shows that there is higher number of subscribers. My recommendation is to market the benefits of becoming a subsciber. 
+The first heat map confirms the findings in the line graph - there are more male riders. It is unclear why there are more male riders than any other riders. The second heat map shows that there is higher number of subscribers. My recommendation is to market the benefits of being a subscriber to convert customers. 
   
 <p align="center" width="100%">
     <img width="66%" src="https://github.com/molivajimenez22/Bikesharing/blob/main/Resources/trips_by_gender.png">
   
 ## Summary
 
-
+While New York City is different from Des Moinse, the data and visualizations show that a bike sharing program can be a sustainable business. I recommend further analysis before launching a new bike sharing program, including:
+  
+  1. Analysis of what drives male riders and what may deter other genders (i.e. safety)
+  2. Analysis of different months to see how weather impacts usage
+  3. Analysis of conversion from customers to subscribers
