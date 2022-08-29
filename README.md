@@ -15,6 +15,7 @@ The visualizations were presented in this [Tableau Dashboard](https://public.tab
 ## Results
 
 ### **Length of time that bikes are checked out for all riders and genders**
+
 The first line graph shows that rides are typically less than 30 mins in duration. The second line graph shows that there are more male riders than female or unkown. 
 
 <p align="center" width="100%">
@@ -22,14 +23,19 @@ The first line graph shows that rides are typically less than 30 mins in duratio
 
 
 ### **Number of bike trips for all riders and genders for each hour of each day of the week**
-This heat map shows that there is a high volume of riders between 7-9am and 5-7pm - Peak time is Thursdays at 8am and 5-6pm.
+
+This heat map shows that there is a high volume of riders between 7-9am and 5-7pm. Peak times are Thursdays at 8am and 5-6pm.
 
 <p align="center" width="100%">
     <img width="66%" src="https://github.com/molivajimenez22/Bikesharing/blob/main/Resources/Weekday_for_eachhour.png">
 
 ### **Number of bike trips for each type of user and gender for each day of the week**
-## Summary
 
+The first heat map confirms findings in the line graph - there are more male riders. It is unclear why there are more male riders than any other riders. The second heat map shows that there is higher number of subscribers. My recommendation is to market the benefits of becoming a subsciber. 
+  
 <p align="center" width="100%">
     <img width="66%" src="https://github.com/molivajimenez22/Bikesharing/blob/main/Resources/trips_by_gender.png">
+  
+## Summary
+
 
