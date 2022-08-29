@@ -15,7 +15,7 @@ The visualizations were presented in this [Tableau Dashboard](https://public.tab
 ## Results
 
 ### **Length of time that bikes are checked out for all riders and genders**
-The first line graph shows that rides are typically under 30 mins regardless of rider. However, the second line graph shows that there are more male riders than female or unkown. 
+The first line graph shows that rides are typically less than 30 mins in duration. The second line graph shows that there are more male riders than female or unkown. 
 
 <p align="center" width="100%">
     <img width="66%" src="https://github.com/molivajimenez22/Bikesharing/blob/main/Resources/Length_of_Time.png">
